@@ -18,6 +18,7 @@ public class Allmethod {
         Scanner input = new Scanner(System.in);
         num = input.nextInt();
 
+        //abc
         /* If number is divisible by 2 then it's an even number
          * else odd number*/
         if ( num % 2 == 0 )
